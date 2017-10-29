@@ -1,0 +1,89 @@
+@charset "utf-8";
+/* CSS Document 
+	input[type=text]{ background:#EAEAEA; width:250px; text-align:center; height:30px; font-weight:bold}
+	input[type=date]{ background:#EAEAEA; width:250px; text-align:center; height:30px; font-weight:bold}
+	input[type=password]{ background:#EAEAEA; width:250px; text-align:center; height:30px; font-weight:bold; }
+	input[type=reset]{ width:123px; height:30px; border-radius:5px; text-align:center; font-weight:bold}
+	input[name=btnSubmit]{ width:123px; height:30px; border-radius:5px; text-align:center; font-weight:bold}
+	input[type=reset]{ width:123px; height:30px; border-radius:5px; text-align:center; font-weight:bold}
+	select[name=cmbSection]{ background:#EAEAEA; width:250px; text-align:center; height:30px; font-weight:bold}
+	select[name=cmbFee]{ background:#EAEAEA; width:250px; text-align:center; height:30px; font-weight:bold}
+	select[name=cmbClass]{ background:#EAEAEA; width:250px; text-align:center; height:30px; font-weight:bold}
+	select[name=cmbGroup]{ background:#EAEAEA; width:250px; text-align:center; height:30px; font-weight:bold}
+	select[name=cmbSession]{ background:#EAEAEA; width:250px; text-align:center; height:30px; font-weight:bold}
+	select[name=cmbday]{ background:#EAEAEA; width:80px; text-align:center; height:30px; font-weight:bold}
+	select[name=cmbmonth]{ background:#EAEAEA; width:80px; text-align:center; height:30px; font-weight:bold}
+	select[name=cmbyear]{ background:#EAEAEA; width:80px; text-align:center; height:30px; font-weight:bold}
+	select[name=cmbday1]{ background:#EAEAEA; width:80px; text-align:center; height:30px; font-weight:bold}
+	select[name=cmbmonth1]{ background:#EAEAEA; width:80px; text-align:center; height:30px; font-weight:bold}
+	select[name=cmbyear1]{ background:#EAEAEA; width:80px; text-align:center; height:30px; font-weight:bold}
+	textarea[name=txtAddress]{ background:#EAEAEA; width:250px; text-align:center;  font-weight:bold}
+	
+	input[type=text]{ background:#EAEAEA; width:250px; text-align:center; height:30px; font-weight:bold}
+	input[value=Go]{ width:50px; height:30px; border-radius:5px; text-align:center; font-weight:bold}
+	select[name=cmbRole]{ background:#EAEAEA; width:250px; text-align:center; height:30px; font-weight:bold}
+	select[name=cmbGender]{ background:#EAEAEA; width:250px; text-align:center; height:30px; font-weight:bold}
+	input[type=submit]{ width:120px; height:30px; border-radius:5px; text-align:center; font-weight:bold}
+	input[type=text]{ background:#EAEAEA; width:250px; text-align:center; height:30px; font-weight:bold}
+	input[name=btnSave]{ width:120px; height:30px; border-radius:5px; text-align:center; font-weight:bold}
+	select[name=cmbDepart]{ background:#EAEAEA; width:250px; text-align:center; height:30px; font-weight:bold}
+	select[name=cmbGender]{ background:#EAEAEA; width:250px; text-align:center; height:30px; font-weight:bold}
+	input[name=btnSubmit]{ width:123px; height:30px; border-radius:5px; text-align:center; font-weight:bold}
+	input[type=file]{ width:200px; height:30px; border-radius:5px; text-align:center; font-weight:bold}
+    input[value=Edit]{ width:50px; height:30px; border-radius:5px; text-align:center; font-weight:bold}
+	textarea{ background:#EAEAEA; width:250px; text-align:center;font-weight:bold}*/
+	.dashboard{ background-color:#F0F0F0; min-width:290px; min-height:120px; padding:20px; font-weight:bold; font-size:20px;margin:18px; background-color:#FFFFFF;-webkit-box-shadow: 1px 1px 4px 0px rgba(0,0,0,0.71);
+-moz-box-shadow: 1px 1px 4px 0px rgba(0,0,0,0.71);
+box-shadow: 0px 2px 4px 0px rgba(0,0,0,0.71);}
+	
+	
+	.style{background-color: #adadad;
+    border: 2px solid gray;
+    border-radius: 15px;
+    box-shadow: 0 0 1px 2px lightgray;
+
+    
+    font-size: 25px;
+    font-weight: bold;
+    min-height: 15px;
+    min-line-height: 25px;
+    margin-right: 5px;
+    padding: 2px 5px;
+    text-align: center;
+    width: 15px;
+}
+.styl{text-align:center; background-color:#A9AEB4; margin-top:0px; padding:13px; min-height:15px; margin-bottom: 30px;}
+.boxshadow{-webkit-box-shadow: 1px 1px 4px 0px rgba(0,0,0,0.71);
+-moz-box-shadow: 1px 1px 4px 0px rgba(0,0,0,0.71);
+box-shadow: 0px 2px 4px 0px rgba(0,0,0,0.71);
+ -moz-linear-gradient(center bottom , #a3a8af, #cfd2d7) repeat scroll 0 0;text-shadow: 0 1px 0 rgba(255, 255, 255, 0.5); }
+.body{min-height:1000px; min-width:750px; margin:10px; margin-bottom:20px;  background-color:#FFFFFF;-webkit-box-shadow: 1px 1px 4px 0px rgba(0,0,0,0.71);
+-moz-box-shadow: 1px 1px 4px 0px rgba(0,0,0,0.71);
+box-shadow: 0px 2px 4px 0px rgba(0,0,0,0.71);}
+body{ background-color:#D6D6D6;  -moz-linear-gradient(center bottom , #a3a8af, #cfd2d7) repeat scroll 0 0; text-shadow: 0 1px 0 rgba(255, 255, 255, 0.5); margin-top:80px}	
+.sttbl{min-height:277px; margin:3px; text-align: center}
+
+
+@media screen and (max-width: 992px){
+    
+	
+}
+
+@media screen and (max-width: 768px){
+    
+	
+}
+
+@media screen and (max-width: 680px){
+   
+	
+}
+
+@media screen and (max-width: 576px){
+    
+    
+}
+
+@media screen and (max-width: 360px){
+    
+}
